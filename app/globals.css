@@ -1,0 +1,62 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Mono:wght@300;400;500&family=Instrument+Serif:ital@0;1&display=swap");
+
+:root {
+  --ink: #171713;
+  --paper: #eeeadd;
+  --signal: #ef4b2f;
+  --line: rgba(23, 23, 19, 0.25);
+}
+
+* { box-sizing: border-box; }
+html, body { margin: 0; min-height: 100%; background: var(--paper); color: var(--ink); }
+body { font-family: "DM Mono", monospace; }
+a { color: inherit; text-decoration: none; }
+
+.collection { min-height: 100vh; padding: 22px 30px 80px; }
+.masthead { min-height: 62vh; position: relative; border-top: 1px solid var(--ink); border-bottom: 1px solid var(--ink); padding-top: 18px; }
+.eyebrow { display: flex; align-items: center; gap: 10px; text-transform: uppercase; font-size: 11px; letter-spacing: .08em; }
+.eyebrow span { width: 7px; height: 7px; border-radius: 50%; background: var(--signal); }
+.masthead h1 { margin: 7vh 0 0; font: 400 clamp(80px, 17vw, 260px)/.68 "Instrument Serif", serif; letter-spacing: -.065em; text-transform: uppercase; }
+.masthead h1 i { color: var(--signal); margin-left: 14vw; }
+.mastheadMeta { position: absolute; right: 0; bottom: 22px; display: grid; grid-template-columns: auto auto; align-items: end; gap: 0 24px; text-align: right; }
+.mastheadMeta p { grid-row: span 2; margin: 0; text-align: left; font-size: 10px; line-height: 1.5; text-transform: uppercase; }
+.mastheadMeta strong { font: 400 58px/.8 "Instrument Serif", serif; }
+.mastheadMeta span { font-size: 9px; text-transform: uppercase; letter-spacing: .1em; }
+.catalog { padding-top: 30px; }
+.catalogTools { display: grid; grid-template-columns: 1fr minmax(240px, 36vw) 1fr; align-items: center; margin-bottom: 55px; font-size: 10px; text-transform: uppercase; }
+.catalogTools input { border: 0; border-bottom: 1px solid var(--ink); border-radius: 0; padding: 10px 2px; background: transparent; color: var(--ink); outline: none; font: inherit; text-transform: uppercase; }
+.catalogTools span { text-align: right; }
+.experimentRow { display: grid; grid-template-columns: 70px 1fr 180px 30px; align-items: center; min-height: 82px; border-top: 1px solid var(--line); transition: color .25s, padding .25s; }
+.experimentRow:last-child { border-bottom: 1px solid var(--line); }
+.experimentRow:hover { color: var(--signal); padding-left: 10px; }
+.experimentRow h2 { margin: 0; font: 400 clamp(25px, 3vw, 48px)/1 "Instrument Serif", serif; }
+.rowNumber, .rowKind { font-size: 9px; text-transform: uppercase; }
+.rowArrow { font-size: 18px; text-align: right; }
+.unavailable { opacity: .38; }
+
+.viewer { width: 100vw; height: 100vh; overflow: hidden; background: #111; }
+.viewerBar { height: 52px; display: grid; grid-template-columns: 1fr auto 1fr; align-items: center; padding: 0 18px; background: var(--paper); border-bottom: 1px solid var(--ink); font-size: 10px; text-transform: uppercase; }
+.backLink, .openLink { transition: color .2s; }
+.backLink:hover, .openLink:hover { color: var(--signal); }
+.viewerTitle { display: flex; align-items: center; gap: 16px; }
+.viewerTitle strong { font-weight: 500; }
+.viewerTitle span { opacity: .55; }
+.openLink { justify-self: end; }
+.experimentFrame { width: 100%; height: calc(100vh - 52px); border: 0; display: block; background: #fff; }
+.buildError { height: calc(100vh - 52px); display: grid; place-content: center; justify-items: center; gap: 14px; padding: 30px; color: #eee; text-align: center; }
+.buildError code { max-width: 760px; color: #ff806d; white-space: pre-wrap; }
+
+@media (max-width: 700px) {
+  .collection { padding: 14px 14px 50px; }
+  .masthead { min-height: 55vh; }
+  .masthead h1 { margin-top: 10vh; font-size: 25vw; }
+  .masthead h1 i { margin-left: 4vw; }
+  .mastheadMeta p { display: none; }
+  .catalogTools { grid-template-columns: 1fr 1.5fr; gap: 14px; margin-bottom: 35px; }
+  .catalogTools span { display: none; }
+  .experimentRow { grid-template-columns: 38px 1fr 22px; min-height: 67px; }
+  .rowKind { display: none; }
+  .experimentRow h2 { font-size: 25px; }
+  .viewerBar { grid-template-columns: 1fr 1fr; }
+  .viewerTitle { display: none; }
+}

@@ -1,0 +1,8 @@
+1:"$Sreact.fragment"
+2:I[5423,["177","static/chunks/app/layout-14e7e0c435dc2423.js"],""]
+3:I[842,[],""]
+4:I[3281,["397","static/chunks/app/template-52a8930aaec3e2ef.js"],"default"]
+5:I[9352,[],""]
+:HL["/experiments/next-clip-mask-page-transition/_next/static/css/c673479fa7f2197c.css","style"]
+:HL["/experiments/next-clip-mask-page-transition/_next/static/css/ea38fa30447ce2d6.css","style"]
+0:{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/experiments/next-clip-mask-page-transition/_next/static/css/c673479fa7f2197c.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/experiments/next-clip-mask-page-transition/_next/static/css/ea38fa30447ce2d6.css","precedence":"next"}]],["$","html",null,{"lang":"en","className":"__variable_3fb076 __variable_fbc6f3","children":["$","body",null,{"children":[["$","nav",null,{"className":"navbar","style":{"viewTransitionName":"navbar"},"children":[["$","div",null,{"className":"navbar-logo","children":["$","div",null,{"className":"navbar-item","children":["$","$L2",null,{"href":"/","children":"Aethos"}]}]}],["$","div",null,{"className":"navbar-items","children":[["$","div",null,{"className":"navbar-item","children":["$","$L2",null,{"href":"/","children":"Genesis"}]}],["$","div",null,{"className":"navbar-item","children":["$","$L2",null,{"href":"/gateway","children":"Gateway"}]}],["$","div",null,{"className":"navbar-item","children":["$","$L2",null,{"href":"/colony","children":"Colony"}]}]]}]]}],["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{"children":["$","$L5",null,{}]}],"templateStyles":[],"templateScripts":[]}]]}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"GkX683NCshl688NYOJXLn"}

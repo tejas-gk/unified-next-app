@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[6565,[],"ViewportBoundary"]
+3:I[6565,[],"MetadataBoundary"]
+4:"$Sreact.suspense"
+5:I[8432,[],"IconMark"]
+0:{"rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Accordion Frames | Codegrid"}],["$","meta","1",{"name":"description","content":"Accordion Frames | Codegrid"}],["$","link","2",{"rel":"icon","href":"/experiments/next-accordion-frames/favicon.ico?603d046c9a6fdfbb","type":"image/x-icon","sizes":"16x16"}],["$","$L5","3",{}]]}]}]}],null]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"p6aKM4rvKPqG1wy87-bNq"}

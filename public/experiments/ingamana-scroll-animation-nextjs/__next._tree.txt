@@ -1,0 +1,2 @@
+:HL["/experiments/ingamana-scroll-animation-nextjs/_next/static/css/8db0cbee38f5b422.css","style"]
+0:{"buildId":"nyejmSK3Y5gv_LpJz4xye","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}

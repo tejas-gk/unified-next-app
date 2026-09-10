@@ -1,0 +1,3 @@
+:HL["/experiments/next-clip-mask-page-transition/_next/static/css/c673479fa7f2197c.css","style"]
+:HL["/experiments/next-clip-mask-page-transition/_next/static/css/ea38fa30447ce2d6.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"gateway","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"GkX683NCshl688NYOJXLn"}

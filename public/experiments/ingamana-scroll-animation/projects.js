@@ -1,0 +1,18 @@
+export const PROJECTS = [
+  { name: "Fieldnotes", year: 2020, img: "/experiments/ingamana-scroll-animation/img1.jpg" },
+  { name: "Redline", year: 2021, img: "/experiments/ingamana-scroll-animation/img2.jpg" },
+  { name: "Gallery Walk", year: 2019, img: "/experiments/ingamana-scroll-animation/img3.jpg" },
+  { name: "Side Profile", year: 2022, img: "/experiments/ingamana-scroll-animation/img4.jpg" },
+  { name: "Open Mic", year: 2023, img: "/experiments/ingamana-scroll-animation/img5.jpg" },
+  { name: "Backboard", year: 2024, img: "/experiments/ingamana-scroll-animation/img6.jpg" },
+  { name: "Afterglow", year: 2021, img: "/experiments/ingamana-scroll-animation/img7.jpg" },
+  { name: "Hill House", year: 2020, img: "/experiments/ingamana-scroll-animation/img8.jpg" },
+  { name: "Low Tide", year: 2018, img: "/experiments/ingamana-scroll-animation/img9.jpg" },
+  { name: "Timepiece", year: 2019, img: "/experiments/ingamana-scroll-animation/img10.jpg" },
+  { name: "Close Focus", year: 2022, img: "/experiments/ingamana-scroll-animation/img11.jpg" },
+  { name: "Airframe", year: 2023, img: "/experiments/ingamana-scroll-animation/img12.jpg" },
+  { name: "Hardcase", year: 2024, img: "/experiments/ingamana-scroll-animation/img13.jpg" },
+  { name: "Deep Red", year: 2021, img: "/experiments/ingamana-scroll-animation/img14.jpg" },
+  { name: "Fast Track", year: 2022, img: "/experiments/ingamana-scroll-animation/img15.jpg" },
+  { name: "Night Shift", year: 2025, img: "/experiments/ingamana-scroll-animation/img16.jpg" },
+];

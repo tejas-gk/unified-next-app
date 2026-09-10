@@ -1,0 +1,586 @@
+[
+  {
+    "order": 1,
+    "slug": "livespot360-landing-page-reveal",
+    "title": "Livespot360 Landing Page Reveal",
+    "kind": "Static",
+    "source": "CODE/codegrid-livespot360-landing-page-reveal",
+    "status": "ready"
+  },
+  {
+    "order": 2,
+    "slug": "glitchandgrit-infinite-slider",
+    "title": "Glitchandgrit Infinite Slider",
+    "kind": "Static",
+    "source": "CODE (1)/codegrid-glitchandgrit-infinite-slider",
+    "status": "ready"
+  },
+  {
+    "order": 3,
+    "slug": "next-clip-mask-page-transition",
+    "title": "Next Clip Mask Page Transition",
+    "kind": "Next.js",
+    "source": "CODE (2)/codegrid-next-clip-mask-page-transition",
+    "status": "ready"
+  },
+  {
+    "order": 4,
+    "slug": "starfield-animation",
+    "title": "Starfield Animation",
+    "kind": "Static",
+    "source": "CODE (3)/codegrid-starfield-animation",
+    "status": "ready"
+  },
+  {
+    "order": 5,
+    "slug": "veravandeseyp-scroll-animation",
+    "title": "Veravandeseyp Scroll Animation",
+    "kind": "Static",
+    "source": "CODE (4)/codegrid-veravandeseyp-scroll-animation",
+    "status": "ready"
+  },
+  {
+    "order": 6,
+    "slug": "obsidianassembly-page-transition",
+    "title": "Obsidianassembly Page Transition",
+    "kind": "Next.js",
+    "source": "CODE (5)/codegrid-obsidianassembly-page-transition",
+    "status": "ready"
+  },
+  {
+    "order": 7,
+    "slug": "buckssauce-landing-page-reveal",
+    "title": "Buckssauce Landing Page Reveal",
+    "kind": "Vite",
+    "source": "CODE (6)/codegrid-buckssauce-landing-page-reveal",
+    "status": "ready"
+  },
+  {
+    "order": 8,
+    "slug": "codegrie-voltlites-scroll-animation",
+    "title": "Codegrie Voltlites Scroll Animation",
+    "kind": "Vite",
+    "source": "CODE (7)/codegrie-voltlites-scroll-animation",
+    "status": "ready"
+  },
+  {
+    "order": 9,
+    "slug": "voyeurverite-scroll-animation",
+    "title": "Voyeurverite Scroll Animation",
+    "kind": "Vite",
+    "source": "CODE (8)/codegrid-voyeurverite-scroll-animation",
+    "status": "ready"
+  },
+  {
+    "order": 10,
+    "slug": "grid-deformation-effect",
+    "title": "Grid Deformation Effect",
+    "kind": "Vite",
+    "source": "CODE (9)/codegrid-grid-deformation-effect",
+    "status": "ready"
+  },
+  {
+    "order": 11,
+    "slug": "lukebaffait-animated-footer",
+    "title": "Lukebaffait Animated Footer",
+    "kind": "Vite",
+    "source": "CODE (10)/codegrid-lukebaffait-animated-footer",
+    "status": "ready"
+  },
+  {
+    "order": 12,
+    "slug": "magnetic-marquee",
+    "title": "Magnetic Marquee",
+    "kind": "Vite",
+    "source": "CODE (11)/codegrid-magnetic-marquee",
+    "status": "ready"
+  },
+  {
+    "order": 13,
+    "slug": "outfit-landing-page-reveal",
+    "title": "Outfit Landing Page Reveal",
+    "kind": "Vite",
+    "source": "CODE (12)/codegrid-outfit-landing-page-reveal",
+    "status": "ready"
+  },
+  {
+    "order": 14,
+    "slug": "werowallet-scroll-animation",
+    "title": "Werowallet Scroll Animation",
+    "kind": "Vite",
+    "source": "CODE (13)/codegrid-werowallet-scroll-animation",
+    "status": "ready"
+  },
+  {
+    "order": 15,
+    "slug": "detroit-paris-infinite-slider",
+    "title": "Detroit Paris Infinite Slider",
+    "kind": "Vite",
+    "source": "CODE (14)/codegrid-detroit-paris-infinite-slider",
+    "status": "ready"
+  },
+  {
+    "order": 16,
+    "slug": "fameestate-scroll-animation",
+    "title": "Fameestate Scroll Animation",
+    "kind": "Vite",
+    "source": "CODE (15)/codegrid-fameestate-scroll-animation",
+    "status": "ready"
+  },
+  {
+    "order": 17,
+    "slug": "larevoltosa-scroll-animation",
+    "title": "Larevoltosa Scroll Animation",
+    "kind": "Vite",
+    "source": "CODE (16)/codegrid-larevoltosa-scroll-animation",
+    "status": "ready"
+  },
+  {
+    "order": 18,
+    "slug": "grid-shutter-page-transition",
+    "title": "Grid Shutter Page Transition",
+    "kind": "Next.js",
+    "source": "CODE (17)/codegrid-grid-shutter-page-transition",
+    "status": "ready"
+  },
+  {
+    "order": 19,
+    "slug": "spencergabor-magnetic-cards",
+    "title": "Spencergabor Magnetic Cards",
+    "kind": "Vite",
+    "source": "CODE (18)/codegrid-spencergabor-magnetic-cards",
+    "status": "ready"
+  },
+  {
+    "order": 20,
+    "slug": "next-accordion-frames",
+    "title": "Next Accordion Frames",
+    "kind": "Next.js",
+    "source": "CODE (19)/codegrid-next-accordion-frames",
+    "status": "ready"
+  },
+  {
+    "order": 21,
+    "slug": "kvs-studio-image-reveal",
+    "title": "Kvs Studio Image Reveal",
+    "kind": "Vite",
+    "source": "CODE (20)/codegrid-kvs-studio-image-reveal",
+    "status": "ready"
+  },
+  {
+    "order": 22,
+    "slug": "steelworks-landing-page-reveal",
+    "title": "Steelworks Landing Page Reveal",
+    "kind": "Vite",
+    "source": "CODE (21)/codegrid-steelworks-landing-page-reveal",
+    "status": "ready"
+  },
+  {
+    "order": 23,
+    "slug": "mosaic-flip-hover-effect",
+    "title": "Mosaic Flip Hover Effect",
+    "kind": "Vite",
+    "source": "CODE (22)/codegrid-mosaic-flip-hover-effect",
+    "status": "ready"
+  },
+  {
+    "order": 24,
+    "slug": "ripple-displacement-slider",
+    "title": "Ripple Displacement Slider",
+    "kind": "Vite",
+    "source": "CODE (23)/codegrid-ripple-displacement-slider",
+    "status": "ready"
+  },
+  {
+    "order": 25,
+    "slug": "ashleybrookecs-smudge-revealer",
+    "title": "Ashleybrookecs Smudge Revealer",
+    "kind": "Vite",
+    "source": "CODE (24)/codegrid-ashleybrookecs-smudge-revealer",
+    "status": "ready"
+  },
+  {
+    "order": 26,
+    "slug": "cursor-driven-material-spotlight",
+    "title": "Cursor Driven Material Spotlight",
+    "kind": "Vite",
+    "source": "CODE (25)/codegrid-cursor-driven-material-spotlight",
+    "status": "ready"
+  },
+  {
+    "order": 27,
+    "slug": "artefakt-interactive-ascii-logo",
+    "title": "Artefakt Interactive Ascii Logo",
+    "kind": "Vite",
+    "source": "CODE (26)/codegrid-artefakt-interactive-ascii-logo",
+    "status": "ready"
+  },
+  {
+    "order": 28,
+    "slug": "artefakt-interactive-ascii-logo-2",
+    "title": "Artefakt Interactive Ascii Logo",
+    "kind": "Vite",
+    "source": "CODE (27)/codegrid-artefakt-interactive-ascii-logo",
+    "status": "ready"
+  },
+  {
+    "order": 29,
+    "slug": "ascii-image-reveal-effect",
+    "title": "Ascii Image Reveal Effect",
+    "kind": "Vite",
+    "source": "CODE (28)/codegrid-ascii-image-reveal-effect",
+    "status": "ready"
+  },
+  {
+    "order": 30,
+    "slug": "maximatherapy-sticky-cards",
+    "title": "Maximatherapy Sticky Cards",
+    "kind": "Vite",
+    "source": "CODE (29)/codegrid-maximatherapy-sticky-cards",
+    "status": "ready"
+  },
+  {
+    "order": 31,
+    "slug": "cappen-fluid-simulation",
+    "title": "Cappen Fluid Simulation",
+    "kind": "Vite",
+    "source": "CODE (30)/codegrid-cappen-fluid-simulation",
+    "status": "ready"
+  },
+  {
+    "order": 32,
+    "slug": "poppr-menu-nextjs",
+    "title": "Poppr Menu",
+    "kind": "Next.js",
+    "source": "CODE (31)/codegrid-poppr-menu-nextjs",
+    "status": "ready"
+  },
+  {
+    "order": 33,
+    "slug": "poppr-menu",
+    "title": "Poppr Menu",
+    "kind": "Vite",
+    "source": "CODE (32)/codegrid-poppr-menu",
+    "status": "ready"
+  },
+  {
+    "order": 34,
+    "slug": "next-text-reveal-animation",
+    "title": "Next Text Reveal Animation",
+    "kind": "Next.js",
+    "source": "CODE (33)/codegrid-next-text-reveal-animation",
+    "status": "ready"
+  },
+  {
+    "order": 35,
+    "slug": "aminezegmou-landing-page",
+    "title": "Aminezegmou Landing Page",
+    "kind": "Vite",
+    "source": "CODE (34)/codegrid-aminezegmou-landing-page",
+    "status": "ready"
+  },
+  {
+    "order": 36,
+    "slug": "3d-scroll-tunnel",
+    "title": "3d Scroll Tunnel",
+    "kind": "Vite",
+    "source": "CODE (35)/codegrid-3d-scroll-tunnel",
+    "status": "ready"
+  },
+  {
+    "order": 37,
+    "slug": "scroll-wave-image-gallery",
+    "title": "Scroll Wave Image Gallery",
+    "kind": "Vite",
+    "source": "CODE (36)/codegrid-scroll-wave-image-gallery",
+    "status": "ready"
+  },
+  {
+    "order": 38,
+    "slug": "svg-stroke-page-transition-nextjs",
+    "title": "Svg Stroke Page Transition",
+    "kind": "Next.js",
+    "source": "CODE (37)/codegrid-svg-stroke-page-transition-nextjs",
+    "status": "ready"
+  },
+  {
+    "order": 39,
+    "slug": "gsap-creative-clutter",
+    "title": "Gsap Creative Clutter",
+    "kind": "Vite",
+    "source": "CODE (38)/codegrid-gsap-creative-clutter",
+    "status": "ready"
+  },
+  {
+    "order": 40,
+    "slug": "overlay-menu-gsap",
+    "title": "Overlay Menu Gsap",
+    "kind": "Vite",
+    "source": "CODE (39)/codegrid-overlay-menu-gsap",
+    "status": "ready"
+  },
+  {
+    "order": 41,
+    "slug": "studiodialect-image-gallery",
+    "title": "Studiodialect Image Gallery",
+    "kind": "Vite",
+    "source": "CODE (40)/codegrid-studiodialect-image-gallery",
+    "status": "ready"
+  },
+  {
+    "order": 42,
+    "slug": "griflan-hover-effect",
+    "title": "Griflan Hover Effect",
+    "kind": "Vite",
+    "source": "CODE (41)/codegrid-griflan-hover-effect",
+    "status": "ready"
+  },
+  {
+    "order": 43,
+    "slug": "waabi-scroll-animation",
+    "title": "Waabi Scroll Animation",
+    "kind": "Vite",
+    "source": "CODE (42)/codegrid-waabi-scroll-animation",
+    "status": "ready"
+  },
+  {
+    "order": 44,
+    "slug": "3d-crt-display",
+    "title": "3d Crt Display",
+    "kind": "Vite",
+    "source": "CODE (43)/codegrid-3d-crt-display",
+    "status": "ready"
+  },
+  {
+    "order": 45,
+    "slug": "voku-image-slider",
+    "title": "Voku Image Slider",
+    "kind": "Vite",
+    "source": "CODE (44)/codegrid-voku-image-slider",
+    "status": "ready"
+  },
+  {
+    "order": 46,
+    "slug": "ingamana-scroll-animation",
+    "title": "Ingamana Scroll Animation",
+    "kind": "Vite",
+    "source": "CODE (45)/codegrid-ingamana-scroll-animation",
+    "status": "ready"
+  },
+  {
+    "order": 47,
+    "slug": "ingamana-scroll-animation-nextjs",
+    "title": "Ingamana Scroll Animation",
+    "kind": "Next.js",
+    "source": "CODE (46)/codegrid-ingamana-scroll-animation-nextjs",
+    "status": "ready"
+  },
+  {
+    "order": 48,
+    "slug": "threejs-slider-nextjs",
+    "title": "Threejs Slider",
+    "kind": "Next.js",
+    "source": "CODE (47)/codegrid-threejs-slider-nextjs",
+    "status": "ready"
+  },
+  {
+    "order": 49,
+    "slug": "threejs-slider-main",
+    "title": "Threejs Slider",
+    "kind": "Vite",
+    "source": "CODE (48)/codegrid-threejs-slider-main",
+    "status": "ready"
+  },
+  {
+    "order": 50,
+    "slug": "nvg8-scroll-animation",
+    "title": "Nvg8 Scroll Animation",
+    "kind": "Vite",
+    "source": "CODE (49)/codegrid-nvg8-scroll-animation",
+    "status": "ready"
+  },
+  {
+    "order": 51,
+    "slug": "brandappart-sticky-cards",
+    "title": "Brandappart Sticky Cards",
+    "kind": "Vite",
+    "source": "CODE (50)/codegrid-brandappart-sticky-cards",
+    "status": "ready"
+  },
+  {
+    "order": 52,
+    "slug": "moblinks-interactive-logo",
+    "title": "Moblinks Interactive Logo",
+    "kind": "Vite",
+    "source": "CODE (51)/codegrid-moblinks-interactive-logo",
+    "status": "ready"
+  },
+  {
+    "order": 53,
+    "slug": "poly-app-photo-dump",
+    "title": "Poly App Photo Dump",
+    "kind": "Vite",
+    "source": "CODE (52)/codegrid-poly-app-photo-dump",
+    "status": "ready"
+  },
+  {
+    "order": 54,
+    "slug": "svg-image-hover-effect",
+    "title": "Svg Image Hover Effect",
+    "kind": "Vite",
+    "source": "CODE (53)/codegrid-svg-image-hover-effect",
+    "status": "ready"
+  },
+  {
+    "order": 55,
+    "slug": "jeskojets-scroll-animation",
+    "title": "Jeskojets Scroll Animation",
+    "kind": "Vite",
+    "source": "CODE (54)/codegrid-jeskojets-scroll-animation",
+    "status": "ready"
+  },
+  {
+    "order": 56,
+    "slug": "prototypestudio-scroll-animation",
+    "title": "Prototypestudio Scroll Animation",
+    "kind": "Vite",
+    "source": "CODE (55)/codegrid-prototypestudio-scroll-animation",
+    "status": "ready"
+  },
+  {
+    "order": 57,
+    "slug": "guiding-light",
+    "title": "Guiding Light",
+    "kind": "Vite",
+    "source": "CODE (56)/codegrid-guiding-light",
+    "status": "ready"
+  },
+  {
+    "order": 58,
+    "slug": "next-carousel",
+    "title": "Next Carousel",
+    "kind": "Next.js",
+    "source": "CODE (57)/codegrid-next-carousel",
+    "status": "ready"
+  },
+  {
+    "order": 59,
+    "slug": "akaru-menu-nextjs",
+    "title": "Akaru Menu",
+    "kind": "Next.js",
+    "source": "CODE (58)/codegrid-akaru-menu-nextjs",
+    "status": "ready"
+  },
+  {
+    "order": 60,
+    "slug": "landonorris-interactive-landing-page",
+    "title": "Landonorris Interactive Landing Page",
+    "kind": "Vite",
+    "source": "CODE (59)/codegrid-landonorris-interactive-landing-page",
+    "status": "ready"
+  },
+  {
+    "order": 61,
+    "slug": "silver-pinewood-menu",
+    "title": "Silver Pinewood Menu",
+    "kind": "Vite",
+    "source": "CODE (60)/codegrid-silver-pinewood-menu",
+    "status": "ready"
+  },
+  {
+    "order": 62,
+    "slug": "deepjudge-scroll-animation",
+    "title": "Deepjudge Scroll Animation",
+    "kind": "Vite",
+    "source": "CODE (61)/codegrid-deepjudge-scroll-animation",
+    "status": "ready"
+  },
+  {
+    "order": 63,
+    "slug": "wildyriftian-hover-effect",
+    "title": "Wildyriftian Hover Effect",
+    "kind": "Vite",
+    "source": "CODE (62)/codegrid-wildyriftian-hover-effect",
+    "status": "ready"
+  },
+  {
+    "order": 64,
+    "slug": "wonjyou-scroll-animation",
+    "title": "Wonjyou Scroll Animation",
+    "kind": "Vite",
+    "source": "CODE (63)/codegrid-wonjyou-scroll-animation",
+    "status": "ready"
+  },
+  {
+    "order": 65,
+    "slug": "mubien-scroll-animation",
+    "title": "Mubien Scroll Animation",
+    "kind": "Vite",
+    "source": "CODE (64)/codegrid-mubien-scroll-animation",
+    "status": "ready"
+  },
+  {
+    "order": 66,
+    "slug": "jamarea-menu",
+    "title": "Jamarea Menu",
+    "kind": "Vite",
+    "source": "CODE (65)/cg-jamarea-menu",
+    "status": "ready"
+  },
+  {
+    "order": 67,
+    "slug": "playable-objects",
+    "title": "Playable Objects",
+    "kind": "Vite",
+    "source": "CODE (66)/cg-playable-objects",
+    "status": "ready"
+  },
+  {
+    "order": 68,
+    "slug": "infinite-horizontal-slider",
+    "title": "Infinite Horizontal Slider",
+    "kind": "Vite",
+    "source": "CODE (67)/cg-infinite-horizontal-slider",
+    "status": "ready"
+  },
+  {
+    "order": 69,
+    "slug": "gta-vi-landing-page-scroll-final",
+    "title": "Gta Vi Landing Page Scroll",
+    "kind": "Vite",
+    "source": "CODE (68)/codegrid-gta-vi-landing-page-scroll-final",
+    "status": "ready"
+  },
+  {
+    "order": 70,
+    "slug": "nextjs-text-reveal-animation",
+    "title": "Nextjs Text Reveal Animation",
+    "kind": "Next.js",
+    "source": "CODE (69)/codegrid-nextjs-text-reveal-animation",
+    "status": "ready"
+  },
+  {
+    "order": 71,
+    "slug": "direction-aware-hover-effect-nextjs",
+    "title": "Direction Aware Hover Effect",
+    "kind": "Next.js",
+    "source": "CODE (70)/codegrid-direction-aware-hover-effect-nextjs",
+    "status": "ready"
+  },
+  {
+    "order": 72,
+    "slug": "elementis-scroll-animation-javascript",
+    "title": "Elementis Scroll Animation",
+    "kind": "Vite",
+    "source": "CODE (71)/codegrid-elementis-scroll-animation-javascript",
+    "status": "ready"
+  },
+  {
+    "order": 73,
+    "slug": "infinite-draggable-image-gallery-nextjs",
+    "title": "Infinite Draggable Image Gallery",
+    "kind": "Next.js",
+    "source": "CODE (72)/codegrid-infinite-draggable-image-gallery-nextjs",
+    "status": "ready"
+  }
+]

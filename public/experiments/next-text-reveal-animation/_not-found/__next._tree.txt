@@ -1,0 +1,2 @@
+:HL["/experiments/next-text-reveal-animation/_next/static/css/7a2a2a95adcf39f2.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"Bg94e6H4MCQHMQX_SgaHQ"}

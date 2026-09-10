@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Ashleybrookecs Smudge Revealer | Codegrid</title>
+    <script type="module" crossorigin src="/experiments/ashleybrookecs-smudge-revealer/assets/index-B_xK_9W_.js"></script>
+    <link rel="stylesheet" crossorigin href="/experiments/ashleybrookecs-smudge-revealer/assets/index-DF_kSQ6U.css">
+  </head>
+  <body>
+    <section class="hero">
+      <div class="hero-content-foreground">
+        <h1>Dig in</h1>
+      </div>
+
+      <div class="hero-content-background">
+        <h3>
+          The things worth finding are never on the surface. They live in the
+          parts you almost scrolled past.
+        </h3>
+      </div>
+
+      <svg
+        xmlns="http://www.w3.org/2000/svg"
+        preserveAspectRatio="none"
+        class="smudge-revealer"
+      >
+        <defs>
+          <filter id="smudge-goo">
+            <feGaussianBlur in="SourceGraphic" stdDeviation="25" />
+            <feColorMatrix
+              type="matrix"
+              values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 60 -14"
+            />
+          </filter>
+        </defs>
+        <mask id="smudge-mask">
+          <g class="smudge-blobs" filter="url(#smudge-goo)"></g>
+        </mask>
+      </svg>
+    </section>
+
+  </body>
+</html>

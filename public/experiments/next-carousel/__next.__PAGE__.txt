@@ -1,0 +1,7 @@
+1:"$Sreact.fragment"
+2:I[388,["897","static/chunks/518fa5ca-7320197678591872.js","702","static/chunks/702-1fbc7d592c2b5956.js","974","static/chunks/app/page-78ab86b20f5cfdcb.js"],"default"]
+3:I[5982,[],"OutletBoundary"]
+4:"$Sreact.suspense"
+:HL["/experiments/next-carousel/_next/static/css/ef46db3751d8e999.css","style"]
+0:{"buildId":"lBpyBoVhY1V7ilsFXaqgZ","rsc":["$","$1","c",{"children":[[["$","div",null,{"className":"navbar","children":[["$","div",null,{"className":"logo","children":["$","p",null,{"children":[["$","span",null,{"children":"Directory"}]," by Codegrid"]}]}],["$","div",null,{"className":"nav-links","children":[["$","p",null,{"children":"Home"}],["$","p",null,{"children":"Projects"}],["$","p",null,{"children":"Use Cases"}],["$","p",null,{"children":"Commitments"}]]}],["$","div",null,{"className":"cta","children":["$","p",null,{"children":"Contact"}]}]]}],["$","$L2",null,{}]],[["$","link","0",{"rel":"stylesheet","href":"/experiments/next-carousel/_next/static/css/ef46db3751d8e999.css","precedence":"next"}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

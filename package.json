@@ -1,0 +1,21 @@
+{
+  "name": "codegrid-collection",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "prepare:experiments": "node scripts/prepare-experiments.mjs",
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "test:smoke": "node scripts/smoke-test.mjs",
+    "test:runtime": "node scripts/runtime-test.mjs"
+  },
+  "dependencies": {
+    "next": "16.2.10",
+    "react": "19.2.4",
+    "react-dom": "19.2.4"
+  },
+  "devDependencies": {
+    "playwright": "^1.63.0"
+  }
+}

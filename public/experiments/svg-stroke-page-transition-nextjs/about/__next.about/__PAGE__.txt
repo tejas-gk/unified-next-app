@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[224,[],"OutletBoundary"]
+3:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","section",null,{"className":"hero","children":["$","h1",null,{"children":"About"}]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"1t7KUVmBLYC1rdidBlvgt"}
+4:null

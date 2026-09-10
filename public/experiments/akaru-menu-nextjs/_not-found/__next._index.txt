@@ -1,0 +1,8 @@
+1:"$Sreact.fragment"
+2:I[1840,["464","static/chunks/b2d5d87c-440ba66a82799bad.js","206","static/chunks/206-3337c30b36fa2dd1.js","475","static/chunks/475-f55afbc6a2886ae9.js","974","static/chunks/app/page-cb662728c6fb8647.js"],"default"]
+3:I[4503,[],""]
+4:I[7259,[],""]
+:HL["/experiments/akaru-menu-nextjs/_next/static/css/5bc6195f1d6973d2.css","style"]
+:HL["/experiments/akaru-menu-nextjs/_next/static/css/8a5f1367dc756dfe.css","style"]
+:HL["/experiments/akaru-menu-nextjs/_next/static/css/6dfeb2eac969d41d.css","style"]
+0:{"buildId":"lJMMhRiwibxVBlLnGBqLp","rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/experiments/akaru-menu-nextjs/_next/static/css/5bc6195f1d6973d2.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/experiments/akaru-menu-nextjs/_next/static/css/8a5f1367dc756dfe.css","precedence":"next"}],["$","link","2",{"rel":"stylesheet","href":"/experiments/akaru-menu-nextjs/_next/static/css/6dfeb2eac969d41d.css","precedence":"next"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","$L2",null,{}],["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]]}]}]]}],"loading":null,"isPartial":false}
